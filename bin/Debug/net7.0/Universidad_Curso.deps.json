@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Universidad_Curso/1.0.0": {
+        "runtime": {
+          "Universidad_Curso.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Universidad_Curso/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
